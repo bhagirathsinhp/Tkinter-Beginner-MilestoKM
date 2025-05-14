@@ -34,7 +34,7 @@ Conversion formula:
 
 ## 📁 Project Structure
     
-    project/
+    Tkinter-Beginner-MilestoKM/
     │
     ├── main.py        # Main Tkinter GUI script
 
